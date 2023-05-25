@@ -2,7 +2,6 @@
 
 import openai
 
-
 openai.api_key = "Add your OpenAI account API key"
 // just incase if you want to test use this key"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"
 
